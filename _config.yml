@@ -1,22 +1,33 @@
 # general configuration
-url: http://excentris.net
+url: http://www.tsendeemts.com
 baseurl: ''
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/my-pic.jpg"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Tsendsuren Munkhdalai"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "<p>
+      I am a 3rd year Ph.D. Student at the Database and Bioinformatics Laboratory, Chungbuk National University, South Korea.
+    </p>
+    <p>
+      My research focuses on semi-supervised learning, representation learning and deep learning for text mining and natural language processing. In particular, I develop methods to leverage large unlabeled data and to improve performance on NLP related tasks, namely named entity recognition, and event and complex relation extraction.
+    </p>
+    <p>
+      I have several years of experience in programming with java (EE), including swing, JSF, EJB, and JPA. In addition, I have recently been playing with Scala, Python, R and Lua. I got the opportunity to try data processing tools like Mahout, Scikit-learn, Weka and Opencv (Javacv), NoSQL database systems including Hbase, Redis, MongoDB and Cassandra, indexing technologies such as Apache Solr and Lucene, distributed computing and storage tools like Hadoop, Spark and Scalding (for Hadoop) and some other systems for document processing pipelines.
+    </p>
+    <p>
+      I would like to do a few sport activities frequently: bodybuilding, soccer and swimming. I also like to have a beer while playing pool and discussing ideas and technology.
+    </p>"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
   # if include_analytics is true, the content of the analytics.html include will
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
-  include_analytics: false
+  include_analytics: true
 
 # Dependencies
 markdown: kramdown
