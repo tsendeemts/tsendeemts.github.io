@@ -10,7 +10,7 @@ compass:
   author: "Tsendsuren Munkhdalai"
   # tagline will appear under the title (optional)
   tagline: "<p>
-      I am a 3rd year Ph.D. Student at the Database and Bioinformatics Laboratory, Chungbuk National University, South Korea.
+      I am a 3rd year Ph.D. student at the Database and Bioinformatics Laboratory, Chungbuk National University, South Korea.
     </p>
     <p>
       My research focuses on semi-supervised learning, representation learning and deep learning for text mining and natural language processing. In particular, I develop methods to leverage large unlabeled data and to improve performance on NLP related tasks, namely named entity recognition, and event and complex relation extraction.
