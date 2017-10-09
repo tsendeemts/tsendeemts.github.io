@@ -10,10 +10,10 @@ compass:
   author: "Tsendsuren Munkhdalai"
   # tagline will appear under the title (optional)
   tagline: "<p>
-      Currently I am a postdoctoral associate at Prof. Hong’s BioNLP group at UMass. I recently graduated from the Department of Computer Science at Chungbuk National University, South Korea under the excellent supervision of Prof. Keun Ho Ryu.
+      I am a researcher at Microsoft Research Maluuba, Montreal. I spent two years at UMass Medical School as a postdoc sitting right next to the neurology department. I got my PhD from the Department of Computer Science at Chungbuk National University, South Korea under the excellent supervision of Prof. Keun Ho Ryu.
     </p>
     <p>
-      My research focuses on semi-supervised learning, representation learning and deep learning for natural language understanding and clinical/biomedical information extraction.
+      My current research focus is meta learning, memory and attention systems, rapid and temporal adaptations and feedbacks in artificial neural nets for language and text understanding.
     </p>
     <p>
       I have several years of experience in programming with java (EE), including swing, JSF, EJB, and JPA. In addition, I have recently been playing with Scala, Python, R and Lua. I got the opportunity to try deep learning frameworks like Torch, Chainer, MXNET and Keras, data processing tools like Mahout, Scikit-learn, Weka and Opencv (Javacv), NoSQL database systems including Hbase, Redis, MongoDB and Cassandra, indexing technologies such as Apache Solr and Lucene, distributed computing and storage tools like Hadoop, Spark and Scalding (for Hadoop) and some other systems for document processing pipelines.
