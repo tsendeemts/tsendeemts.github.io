@@ -10,16 +10,19 @@ compass:
   author: "Tsendsuren Munkhdalai"
   # tagline will appear under the title (optional)
   tagline: "<p>
-      I am a researcher at Microsoft Research Maluuba, Montreal. I spent two years at UMass Medical School as a postdoc sitting right next to the neurology department. I got my PhD from the Department of Computer Science at Chungbuk National University, South Korea under the excellent supervision of Prof. Keun Ho Ryu.
+      I am a researcher at Microsoft Research Montreal.
+      I spent two years at the University of Massachusetts as a postdoc sitting right next to the neurology department. 
+      I got my MSc and PhD under the excellent supervision of Prof. Keun Ho Ryu from the Department of Computer Science at Chungbuk National University, South Korea.
+      I studied my bachelor in Ulaanbaatar, Mongolia at the National University of Mongolia where my thesis topic was on demand forcasting with regression analysis.
     </p>
     <p>
-      My current research focus is meta learning, memory and attention systems, rapid and temporal adaptations and feedbacks in artificial neural nets for language and text understanding.
+      My current research focus is on meta-learning, memory and attention systems, rapid and temporal adaptations and learning feedbacks in artificial neural networks.
     </p>
     <p>
-      I have several years of experience in programming with java (EE), including swing, JSF, EJB, and JPA. In addition, I have recently been playing with Scala, Python, R and Lua. I got the opportunity to try deep learning frameworks like Torch, Chainer, MXNET and Keras, data processing tools like Mahout, Scikit-learn, Weka and Opencv (Javacv), NoSQL database systems including Hbase, Redis, MongoDB and Cassandra, indexing technologies such as Apache Solr and Lucene, distributed computing and storage tools like Hadoop, Spark and Scalding (for Hadoop) and some other systems for document processing pipelines.
+      As a graduate student, I had a chance to work for a couple of startups where we focused on personalized document processing pipeline and search engine at scale. I also used to participate in Kaggle competitions and held the competitions expert badge from the Kaggle community.
     </p>
     <p>
-      I would like to do a few sport activities frequently: bodybuilding, soccer, volleyball and swimming. I also like to have a beer while playing pool and discussing ideas and technology.
+      A few sport activities I attemp to do are weight training, volleyball and swimming. I also like to have beer while playing pool and discussing ideas and technology.
     </p>"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
