@@ -10,19 +10,18 @@ compass:
   author: "Tsendsuren Munkhdalai"
   # tagline will appear under the title (optional)
   tagline: "<p>
-      I am a researcher at Microsoft Research Montreal.
-      I spent two years at the University of Massachusetts as a postdoc sitting right next to the neurology department. 
+      I am a research scientist at Google. Before Google, I was a researcher at Microsoft Research Montreal.
       I got my MSc and PhD under the excellent supervision of Prof. Keun Ho Ryu from the Department of Computer Science at Chungbuk National University, South Korea.
-      I studied my bachelor in Ulaanbaatar, Mongolia at the National University of Mongolia where my thesis topic was on demand forcasting with regression analysis.
+      I studied my bachelor in Ulaanbaatar, Mongolia at the National University of Mongolia where my thesis topic was on demand forecasting with regression analysis.
     </p>
     <p>
       My current research focus is on meta-learning, memory and attention systems, rapid and temporal adaptations and learning feedbacks in artificial neural networks.
     </p>
     <p>
-      As a graduate student, I had a chance to work for a couple of startups where we focused on personalized document processing pipeline and search engine at scale. I also used to participate in Kaggle competitions and held the competitions expert badge from the Kaggle community.
+      As a graduate student, I had a chance to work for a couple of startups where we focused on personalized document processing pipeline and search engine at scale. From 2012-2015, I actively participated in Kaggle competitions and I peaked at world rank 422 (top <1.0%).
     </p>
     <p>
-      A few sport activities I attemp to do are weight training, volleyball and swimming. I also like to have beer while playing pool and discussing ideas and technology.
+      A few sport activities I attempt to do are weight training, volleyball and swimming. I also like to have beer while playing pool and discussing ideas and technology.
     </p>"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
